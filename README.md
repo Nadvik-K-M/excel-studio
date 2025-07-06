@@ -65,11 +65,3 @@ Strategic Planning: Supports inventory and marketing prioritization based on dat
 
 Efficiency: Enables faster decision-making through self-service analytics.
 
-🙏 Feedback & Contact
-For feedback, suggestions, or collaboration inquiries, please reach out:
-
-Email: your.email@example.com
-
-LinkedIn: Your Profile
-github.com
-
